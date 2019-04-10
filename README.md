@@ -1,5 +1,5 @@
 # Cazy.js
-Collecting some carzy JavaScript codes
+Collecting some crazy JavaScript codes
 
 #### String Immutability
 String literal cannot be changed
