@@ -1,4 +1,4 @@
-# cazy.js
+# Cazy.js
 Collecting some carzy JavaScript codes
 
 #### String Immutability
