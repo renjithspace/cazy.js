@@ -1,4 +1,4 @@
-# Cazy.js
+# WTF.js
 Collecting some crazy JavaScript codes
 
 #### String Immutability
