@@ -13,5 +13,6 @@ console.log(name[0]) // Expected J, But B
 ```js
 console.log(`Hello world`) // Hello world
 console.log `Hello world` // ['Hello world']
-Object.keys `Hello world` // [0]
+Object.keys(`foo`) // [ '0', '1', '2' ]
+Object.keys `foo` // [0]
 ```
